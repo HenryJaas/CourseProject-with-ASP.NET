@@ -1,0 +1,16 @@
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.sourcelink.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CopyComplete
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll

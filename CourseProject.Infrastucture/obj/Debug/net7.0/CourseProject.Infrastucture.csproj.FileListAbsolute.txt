@@ -1,0 +1,16 @@
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\bin\Debug\net7.0\CourseProject.Infrastucture.deps.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\bin\Debug\net7.0\CourseProject.Infrastucture.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\bin\Debug\net7.0\CourseProject.Infrastucture.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\bin\Debug\net7.0\CourseProject.Common.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\bin\Debug\net7.0\CourseProject.Common.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.csproj.AssemblyReference.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.AssemblyInfoInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.AssemblyInfo.cs
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.csproj.CoreCompileInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.sourcelink.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.csproj.CopyComplete
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\refint\CourseProject.Infrastucture.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\CourseProject.Infrastucture.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Infrastucture\obj\Debug\net7.0\ref\CourseProject.Infrastucture.dll

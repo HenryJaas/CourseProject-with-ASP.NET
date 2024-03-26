@@ -1,0 +1,12 @@
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\bin\Debug\net7.0\CourseProject.Common.deps.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\bin\Debug\net7.0\CourseProject.Common.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\bin\Debug\net7.0\CourseProject.Common.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.AssemblyInfoInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.AssemblyInfo.cs
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.csproj.CoreCompileInputs.cache
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.sourcelink.json
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\refint\CourseProject.Common.dll
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\CourseProject.Common.pdb
+E:\.NET-Projects\dotnet course material\CourseProject\src\CourseProject.Common\obj\Debug\net7.0\ref\CourseProject.Common.dll
